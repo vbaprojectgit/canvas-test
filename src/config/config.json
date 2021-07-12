@@ -1,0 +1,33 @@
+{
+    "images": [ {
+        "key": "1",
+        "image_url": "/images/1.png",
+        "backgroud_color": "green"
+    },
+    {
+        "key": "2",
+        "image_url": "/images/2.png",
+        "backgroud_color": "blue"
+    },
+    {
+        "key": "3",
+        "image_url": "/images/3.png",
+        "backgroud_color": "green"
+    },
+    {
+        "key": "4",
+        "image_url": "/images/4.png",
+        "backgroud_color": "green"
+    },
+    {
+        "key": "5",
+        "image_url": "/images/5.png",
+        "backgroud_color": "green"
+    },
+    {
+        "key": "6",
+        "image_url": "/images/6.png",
+        "backgroud_color": "green"
+    }
+]
+}
